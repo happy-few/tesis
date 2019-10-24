@@ -8,7 +8,7 @@
 
 por [Leo Arias](https://github.com/elopio)
 
-* [Repositorio](https://bazaar.launchpad.net/~elopio/+junk/tesis/
+* [Repositorio](https://bazaar.launchpad.net/~elopio/+junk/tesis/)
 * [Documento de Propuesta](https://bazaar.launchpad.net/~elopio/+junk/tesis/view/head:/propuesta/propuesta.pdf)
 * Documento de Tesis: wait for it!
 
